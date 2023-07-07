@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eabf4e62.css",
+    "main.js": "/static/js/main.3e986f72.js",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/banner.jpg": "/static/media/banner.b484afcbad4bbaab1b5b.jpg",
+    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/index.html",
+    "main.eabf4e62.css.map": "/static/css/main.eabf4e62.css.map",
+    "main.3e986f72.js.map": "/static/js/main.3e986f72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eabf4e62.css",
+    "static/js/main.3e986f72.js"
+  ]
+}
