@@ -20,13 +20,13 @@ const Education = () => {
             title="B-Tech in Computer Science & Engineering ( Data Science )"
             subTitle="Noida Institute Of Engineeing and Technology, Greater Noida (2020 - 2024)"
             result="83.34% Till 5th Sem"
-            des="Lorem ipsum is a dummy text without any sense. It is a sequence of Latin words that, as they are positioned, do not form sentences with a complete sense, .."
+           
           />
           <ResumeCard
             title="High School"
             subTitle="R D M S S Dhaurahara, Munga Badshahpur, Jaunpur (2017 - 2018)"
             result="82.83%"
-            des="Lorem ipsum is a dummy text without any sense. It is a sequence of Latin words that, as they are positioned, do not form sentences with a complete sense, .."
+          
           />
 
         </div>
@@ -43,7 +43,7 @@ const Education = () => {
             title="Intermediate"
             subTitle="Sarvajani Inter Collage Mungra Badshahpur, Jaunpur ( 2019 - 2020 )"
             result="71.4%"
-            des="Lorem ipsum is a dummy text without any sense. It is a sequence of Latin words that, as they are positioned, do not form sentences with a complete sense, .."
+          
           />
 
 

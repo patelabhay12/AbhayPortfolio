@@ -18,36 +18,32 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="Nursary Plant E-commerce Application"
-          des="Ongoing Project"
+          des=""
           src={projectOne}
         />
         <ProjectsCard
           title="E-commerce Website"
-          des="Comming Soon"
+          des=""
           src={projectTwo}
         />
         <ProjectsCard
           title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=" "
           src={projectThree}
         />
         <ProjectsCard
           title="RealTime Video Chat Application"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=" "
           src={projectThree}
         />
         <ProjectsCard
           title="Hotel Booking Application"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=""
           src={projectOne}
         />
         <ProjectsCard
           title="Twitter Clone"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=""
           src={projectTwo}
         />
       </div>

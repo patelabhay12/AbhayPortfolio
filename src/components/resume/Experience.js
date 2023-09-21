@@ -47,13 +47,17 @@ const Experience = () => {
             title="LetsGrowMore"
             subTitle="Web Developer Intern ( March 2023 - April 2023 )"
             result="Remote"
-            des="Gain hands-on experience in front-end development using Reactjs and css.Learned about version control systems (e.g., Git) During this internship I have completed 4 tasks "
+            des="Collaborated with the creative team to create fully authenticated web applications .
+             Implemented Front-End part of the projects using BootStrap, Javascript ,React js ,CSS"
           />
           <ResumeCard
             title="Bharat Intern"
             subTitle="Full Stack Developer Intern( June 2023 - July 2023 )"
             result="Remote"
-            des="Gain hands-on experience in front-end development using Reactjs ,Node js and css.Learned about version control systems (e.g., Git). During this internship I have completed 3 tasks"
+            des="Gain hands-on experience in front-end development using Reactjs ,Node js,Socket.io .
+Learned how to integrate front-end and backend.
+Made a whole website on RealTime Chat Application with all the required features using BootStrap, React, Node js , 
+Css, Socket.io."
           />
           {/* <ResumeCard
             title="School Teacher"

@@ -46,9 +46,7 @@ const Navbar = () => {
               <div>
                 <span>Abhay Patel</span>
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                I am currently a student at Noida Institute of Engineering and Technology in Greater Noida, pursuing my Bachelor's degree in Computer Science and Engineering with a specialization in Data Science
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
