@@ -60,7 +60,7 @@ const Resume = () => {
           >
             Experience
           </li>
-          <li
+          {/* <li
             onClick={() =>
               setEducationData(false) &
               setSkillData(false) &
@@ -74,7 +74,7 @@ const Resume = () => {
             } resumeLi`}
           >
             Achievements
-          </li>
+          </li> */}
         </ul>
       </div>
       {educationData && <Education />}

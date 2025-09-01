@@ -1,5 +1,5 @@
 import React from 'react'
-import { bannerImg } from "../../assets/index";
+import { bannerImg } from "../../assets/index.js";
 
 const RightBanner = () => {
   return (
@@ -14,4 +14,4 @@ const RightBanner = () => {
   );
 }
 
-export default RightBanner``
+export default RightBanner;

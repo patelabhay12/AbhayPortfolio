@@ -77,12 +77,12 @@ const Navbar = () => {
                   <span className="bannerIcon">
                     <FaFacebookF />
                   </span>
-                  <a href="https://twitter.com/AbhayPa06048327" target='_blank'>
+                  <a href="https://twitter.com/AbhayPa06048327" target='_blank' rel='noreferrer'>
                     <span className="bannerIcon">
                       <FaTwitter />
                     </span>
                   </a>
-                  <a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target='_blank'>
+                  <a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target='_blank' rel='noreferrer'>
                     <span className="bannerIcon">
                       <FaLinkedinIn />
                     </span>

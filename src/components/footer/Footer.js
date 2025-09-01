@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
-import { logo } from "../../assets/index"
+
 
 const Footer = () => {
   return (
@@ -11,12 +11,12 @@ const Footer = () => {
           <span className="bannerIcon">
             <FaFacebookF />
           </span>
-          <a href="https://twitter.com/AbhayPa06048327" target='_blank'>
+          <a href="https://twitter.com/AbhayPa06048327" target='_blank' rel='noreferrer'>
             <span className="bannerIcon">
               <FaTwitter />
             </span>
           </a>
-          <a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target='_blank'>
+          <a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target='_blank' rel='noreferrer'>
             <span className="bannerIcon">
               <FaLinkedinIn />
             </span>
