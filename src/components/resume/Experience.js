@@ -44,16 +44,15 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="LetsGrowMore"
-            subTitle="Web Developer Intern ( March 2023 - April 2023 )"
+            title="OTPless"
+            subTitle="Software Engineer ( December 2024 - Present )"
             result="Remote"
-            des="Collaborated with the creative team to create fully authenticated web applications .
-             Implemented Front-End part of the projects using BootStrap, Javascript ,React js ,CSS"
+            des="full stack dev..."
           />
           <ResumeCard
-            title="Bharat Intern"
-            subTitle="Full Stack Developer Intern( June 2023 - July 2023 )"
-            result="Remote"
+            title="Agami Technologies"
+            subTitle="Full Stack Developer Intern( March 2024 - May 2024 )"
+            result="Greater Noida"
             des="Gain hands-on experience in front-end development using Reactjs ,Node js,Socket.io .
 Learned how to integrate front-end and backend.
 Made a whole website on RealTime Chat Application with all the required features using BootStrap, React, Node js , 

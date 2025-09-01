@@ -19,7 +19,7 @@ const Education = () => {
           <ResumeCard
             title="B-Tech in Computer Science & Engineering ( Data Science )"
             subTitle="Noida Institute Of Engineeing and Technology, Greater Noida (2020 - 2024)"
-            result="83.34% Till 5th Sem"
+            result="80.09%"
            
           />
           <ResumeCard

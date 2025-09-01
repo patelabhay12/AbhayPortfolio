@@ -4,7 +4,7 @@ import Media from './Media';
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-      words: ["Professional Coder.", "Full Stack Developer.", "UI Designer."],
+      words: ["Software Engineer.","Professional Coder.", "Full Stack Developer.", "UI Designer."],
       loop: true,
       typeSpeed: 20,
       deleteSpeed: 10,
@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I am currently a student at Noida Institute of Engineering and Technology in Greater Noida, pursuing my Bachelor's degree in Computer Science and Engineering with a specialization in Data Science. I have a strong passion for learning new technologies and enjoy solving problems, particularly through competitive programming and working on data structures and algorithms.
+        I am currently working as a Software Engineer at OTPles. I hold a Bachelor's degree in Computer Science and Engineering with a specialization in Data Science from Noida Institute of Engineering and Technology, Greater Noida. I have a strong passion for learning new technologies and enjoy solving problems, particularly through competitive programming and working on data structures and algorithms.
         </p>
       </div>
      {/* Media */}

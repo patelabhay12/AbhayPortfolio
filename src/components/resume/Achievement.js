@@ -9,7 +9,7 @@ const Achievement = () => {
       animate={{ opacity: 1, transition: { duration: 0.5 } }}
       className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
     >
-      <div>
+      {/* <div>
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]"></p>
           <h2 className="text-4xl font-bold">Extra curricular Activity</h2>
@@ -60,7 +60,7 @@ const Achievement = () => {
             des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
           />
         </div>
-      </div>
+      </div> */}
     </motion.div>
   );
 };
