@@ -14,4 +14,4 @@ const RightBanner = () => {
   );
 }
 
-export default RightBanner
+export default RightBanner``
