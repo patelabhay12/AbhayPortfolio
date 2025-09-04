@@ -16,7 +16,7 @@ const Resume = () => {
         <Title title="Fresher" des="My Resume" />
       </div>
       <div>
-        <ul className="w-full grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
+        <ul className="w-full lg:flex md:grid grid-cols-1 justify-center  md:grid-cols-2 xl:grid-cols-4">
           <li
             onClick={() =>
               setEducationData(true) &

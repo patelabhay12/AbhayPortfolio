@@ -46,8 +46,8 @@ const Experience = () => {
           <ResumeCard
             title="OTPless"
             subTitle="Software Engineer ( December 2024 - Present )"
-            result="Remote"
-            des="full stack dev..."
+            result="New Delhi, India. On-site"
+            des="Full stack dev..."
           />
           <ResumeCard
             title="Agami Technologies"
