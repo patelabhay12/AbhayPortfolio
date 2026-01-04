@@ -1,5 +1,5 @@
 // import logo from "./images/logo.png";
-import bannerImg from "./profileimg.jpeg";
+import bannerImg from "./abhay.jpeg";
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
 import projectThree from "./images/projects/projectThree.jpeg";
