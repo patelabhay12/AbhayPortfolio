@@ -4,8 +4,8 @@ import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="w-full py-12 h-auto border-b-[1px] border-b-black grid lg:grid-cols-2 sm:grid-cols-1 gap-8">
-      <div className="w-full h-full flex flex-col gap-8">
+    <div className="w-full py-12 h-auto border-b-[1px] border-b-black grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div className="w-full h-full flex flex-col items-center lg:items-start gap-8">
         <span>Abhay Patel</span>
         <div className="flex gap-4">
           <span className="bannerIcon">
@@ -24,7 +24,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="w-full h-full flex justify-center align-middle mt-12">
-        <ul className="lg:flex sm:grid gap-8 font-titleFont font-medium">
+        <ul className="flex flex-col lg:flex-row gap-8 font-titleFont font-medium text-center">
           <li>
             <a href="#home" className="w-full text-lg relative hover:text-designColor duration-300 group">
               Home
