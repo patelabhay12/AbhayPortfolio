@@ -2,13 +2,14 @@ import React, { useState } from 'react'
 import { Link } from "react-scroll";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { navLinksdata } from '../../constants';
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false)
   return (
-    <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
+    <div className="w-full sticky top-4 z-50 flex justify-center px-4">
+      <div className="w-full max-w-screen-xl h-20 bg-white/10 backdrop-blur-xl border border-white/20 mx-auto flex justify-between items-center font-titleFont rounded-full px-6 lgl:px-10 shadow-md">
       <div>
         <span>Abhay Patel</span>
       </div>
@@ -41,12 +42,12 @@ const Navbar = () => {
           <FiMenu />
         </span>
         {showMenu && (
-          <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide">
+          <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-[#0f172a]/95 backdrop-blur-xl border-r border-white/10 p-4 scrollbar-hide">
             <div className="flex flex-col gap-8 py-2 relative">
               <div>
                 <span>Abhay Patel</span>
                 <p className="text-sm text-gray-400 mt-2">
-                I am currently a student at Noida Institute of Engineering and Technology in Greater Noida, pursuing my Bachelor's degree in Computer Science and Engineering with a specialization in Data Science
+                I am a Full-Stack Software Engineer building scalable, production-grade web applications using React, Java, Spring Boot and Node.js.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
@@ -74,12 +75,9 @@ const Navbar = () => {
                   Find me in
                 </h2>
                 <div className="flex gap-4">
-                  <span className="bannerIcon">
-                    <FaFacebookF />
-                  </span>
-                  <a href="https://twitter.com/AbhayPa06048327" target='_blank' rel='noreferrer'>
+                  <a href="https://github.com/patelabhay12" target='_blank' rel='noreferrer'>
                     <span className="bannerIcon">
-                      <FaTwitter />
+                      <FaGithub />
                     </span>
                   </a>
                   <a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target='_blank' rel='noreferrer'>
@@ -98,6 +96,7 @@ const Navbar = () => {
             </div>
           </div>
         )}
+      </div>
       </div>
     </div>
   );

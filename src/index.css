@@ -3,27 +3,53 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components{
-    .bannerIcon{
-        @apply w-16 h-16 bg-black bg-opacity-25 text-gray-200 text-xl inline-flex items-center justify-center rounded-md shadow-shadowOne hover:bg-opacity-40 hover:-translate-y-1 transition-all hover:text-designColor cursor-pointer duration-300;
-    }
-    .resumeLi {
-    @apply w-full h-20 bg-black bg-opacity-25 text-xl text-gray-300 flex justify-center cursor-pointer hover:bg-opacity-40 duration-300 items-center border-[1px] rounded-none;
-         }
-.bgOpacity {
-@apply bg-black bg-opacity-40;
-                  }
-    .contactInput{
-        @apply w-full h-12 rounded-lg border-b-[1px] border-b-gray-600 bg-[#191b1e] text-lightText px-4 active:outline-none focus-visible:outline-designColor outline-none focus-visible:border-b-transparent duration-300
-    }
-.contactTextArea{
-    @apply w-full rounded-lg border-b-[1px] border-b-gray-600 bg-[#191b1e] text-lightText px-4 py-2 active:outline-none focus-visible:outline-designColor outline-none focus-visible:border-b-transparent duration-300 resize-none
+html {
+  scroll-behavior: smooth;
 }
+
+body {
+  background: linear-gradient(135deg, #1e3a8a 0%, #701a75 50%, #0f172a 100%);
+  background-attachment: fixed;
+  color: #e2e8f0;
+}
+
+@layer components {
+  .bannerIcon {
+    @apply w-16 h-16 bg-white/10 backdrop-blur-lg border border-white/20 text-gray-200 text-xl inline-flex items-center justify-center rounded-md shadow-sm hover:border-[#a855f7] hover:-translate-y-1 transition-all hover:text-[#a855f7] cursor-pointer duration-300;
+  }
+
+  .resumeLi {
+    @apply w-full h-20 bg-white/10 backdrop-blur-lg border border-white/20 text-xl text-gray-300 flex justify-center cursor-pointer hover:border-[#a855f7] hover:text-[#a855f7] duration-300 items-center rounded-none;
+  }
+
+  .bgOpacity {
+    @apply bg-white bg-opacity-20 backdrop-blur-md;
+  }
+
+  .contactInput {
+    @apply w-full h-12 rounded-lg border border-white/30 bg-white/10 backdrop-blur-lg text-white px-4 active:outline-none focus-visible:outline-[#a855f7] outline-none duration-300 placeholder-gray-300;
+  }
+
+  .contactTextArea {
+    @apply w-full rounded-lg border border-white/30 bg-white/10 backdrop-blur-lg text-white px-4 py-2 active:outline-none focus-visible:outline-[#a855f7] outline-none duration-300 resize-none placeholder-gray-300;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-white/10 backdrop-blur-xl border border-white/20 shadow-sm !rounded-3xl;
+  }
+
+  .glass-card {
+    @apply bg-white/10 backdrop-blur-xl border border-white/20 shadow-sm hover:border-white/40 hover:scale-[1.02] transition-all duration-300 !rounded-3xl;
+  }
 }
 
 .active {
-    color: white;
+  color: #a855f7;
+  border-bottom: 2px solid #a855f7;
 }
-.scrollbar-hide::-webkit-scrollbar{
-    display: none;
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
 }

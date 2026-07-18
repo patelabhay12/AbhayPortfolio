@@ -10,7 +10,7 @@ import Resume from "./components/resume/Resume";
 
 function App() {
   return (
-    <div className="w-full h-auto bg-bodyColor justify-center text-lightText px-4">
+    <div className="w-full h-auto justify-center text-lightText px-4">
         <Navbar />
       <div className="max-w-screen-xl mx-auto">
         <Banner />
