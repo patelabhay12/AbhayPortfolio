@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/AbhayPortfolio/static/css/main.144a13df.css",
-    "main.js": "/AbhayPortfolio/static/js/main.fc57cb5e.js",
+    "main.css": "/AbhayPortfolio/static/css/main.765e8be9.css",
+    "main.js": "/AbhayPortfolio/static/js/main.2e43f74b.js",
     "static/media/abhay.jpeg": "/AbhayPortfolio/static/media/abhay.d1740d74e86dcbb64bcf.jpeg",
+    "static/media/Abhay_Patel.pdf": "/AbhayPortfolio/static/media/Abhay_Patel.3574bbe2ae960dadf616.pdf",
     "static/media/contactImg.png": "/AbhayPortfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/testimonialOne.png": "/AbhayPortfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
     "static/media/projectThree.jpeg": "/AbhayPortfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
     "static/media/testimonialTwo.png": "/AbhayPortfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
     "static/media/projectTwo.jpg": "/AbhayPortfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/AbhayPortfolio/index.html",
-    "main.144a13df.css.map": "/AbhayPortfolio/static/css/main.144a13df.css.map",
-    "main.fc57cb5e.js.map": "/AbhayPortfolio/static/js/main.fc57cb5e.js.map"
+    "main.765e8be9.css.map": "/AbhayPortfolio/static/css/main.765e8be9.css.map",
+    "main.2e43f74b.js.map": "/AbhayPortfolio/static/js/main.2e43f74b.js.map"
   },
   "entrypoints": [
-    "static/css/main.144a13df.css",
-    "static/js/main.fc57cb5e.js"
+    "static/css/main.765e8be9.css",
+    "static/js/main.2e43f74b.js"
   ]
 }
