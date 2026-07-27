@@ -1,8 +1,8 @@
 // import logo from "./images/logo.png";
 import bannerImg from "./abhay.jpeg";
-import projectOne from "./images/projects/projectOne.jpg";
-import projectTwo from "./images/projects/projectTwo.jpg";
-import projectThree from "./images/projects/projectThree.jpeg";
+import projectOne from "./images/projects/community_platform.png";
+import projectTwo from "./images/projects/fitness_microservice.png";
+import projectThree from "./images/projects/research_platform.png";
 import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
