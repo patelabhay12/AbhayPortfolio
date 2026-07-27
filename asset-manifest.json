@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/AbhayPortfolio/static/css/main.9e8de09b.css",
-    "main.js": "/AbhayPortfolio/static/js/main.3e2489af.js",
+    "main.js": "/AbhayPortfolio/static/js/main.0f65e418.js",
+    "static/media/fitness_microservice.png": "/AbhayPortfolio/static/media/fitness_microservice.823948c5415cb6ec5c84.png",
+    "static/media/community_platform.png": "/AbhayPortfolio/static/media/community_platform.2ffa397c7dca7f0db41b.png",
+    "static/media/research_platform.png": "/AbhayPortfolio/static/media/research_platform.2079a9ec27b0d107ac19.png",
     "static/media/abhay.jpeg": "/AbhayPortfolio/static/media/abhay.d1740d74e86dcbb64bcf.jpeg",
     "static/media/Abhay_Patel.pdf": "/AbhayPortfolio/static/media/Abhay_Patel.3574bbe2ae960dadf616.pdf",
     "static/media/contactImg.png": "/AbhayPortfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/testimonialOne.png": "/AbhayPortfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
-    "static/media/projectThree.jpeg": "/AbhayPortfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
     "static/media/testimonialTwo.png": "/AbhayPortfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
-    "static/media/projectTwo.jpg": "/AbhayPortfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/AbhayPortfolio/index.html",
     "main.9e8de09b.css.map": "/AbhayPortfolio/static/css/main.9e8de09b.css.map",
-    "main.3e2489af.js.map": "/AbhayPortfolio/static/js/main.3e2489af.js.map"
+    "main.0f65e418.js.map": "/AbhayPortfolio/static/js/main.0f65e418.js.map"
   },
   "entrypoints": [
     "static/css/main.9e8de09b.css",
-    "static/js/main.3e2489af.js"
+    "static/js/main.0f65e418.js"
   ]
 }
