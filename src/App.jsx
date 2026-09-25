@@ -60,7 +60,7 @@ function App() {
             </div>
 
             <aside className="reveal" style={{ transitionDelay: '0.5s' }}>
-              <div className="avatar reveal" style={{ transitionDelay: '0.6s' }}><img src="/Profile.png" alt="Abhay Patel profile photo" /></div>
+              <div className="avatar reveal" style={{ transitionDelay: '0.6s' }}><img src="./Profile.png" alt="Abhay Patel profile photo" /></div>
 
               <div className="pill-row">
                 <span className="pill reveal" style={{ transitionDelay: '1.0s' }}>Java</span>
