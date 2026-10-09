@@ -60,7 +60,7 @@ function App() {
             </div>
 
             <aside className="reveal" style={{ transitionDelay: '0.5s' }}>
-              <div className="avatar reveal" style={{ transitionDelay: '0.6s' }}><img src="./Profile.png" alt="Abhay Patel profile photo" /></div>
+              <div className="avatar reveal" style={{ transitionDelay: '0.6s' }}><img src="./profile.png" alt="Abhay Patel profile photo" /></div>
 
               <div className="pill-row">
                 <span className="pill reveal" style={{ transitionDelay: '1.0s' }}>Java</span>
@@ -218,10 +218,10 @@ function App() {
                   <div className="job-role">Full Stack Engineer</div>
                   <div className="job-company">LPU ONLINE</div>
                   <ul>
-                    <li>Spearhead the development of full-stack recruitment platforms, driving end-to-end delivery of automated workflows using React.js, Spring Boot, and Node.js.</li>
-                    <li>Architected workflow automation solutions utilizing Google Workspace APIs, eliminating manual operational overhead by 60%.</li>
-                    <li>Design and scale high-throughput RESTful APIs, optimizing complex database queries to significantly reduce latency and improve UX.</li>
-                    <li>Lead cross-functional collaboration across the SDLC, managing deployments, rigorous testing, and resolving critical production incidents.</li>
+                    <li>Spearheaded the 0→1 development of a full-stack Recruitment Management platform and an enterprise Claims portal, driving system architecture, database design, and production deployment.</li>
+                    <li>Engineered a real-time automated clash detection system to identify duplicate claims, ensuring data integrity alongside multi-level approval workflows and robust role-based access control (RBAC).</li>
+                    <li>Built workflow automations utilizing Google Workspace APIs (reducing manual effort by 60%), and integrated data-driven Analytics dashboards with scalable RESTful APIs and real-time webhooks.</li>
+                    <li>Optimized application performance across React.js, Spring Boot, and Node.js by tuning database queries and managing the complete SDLC for high-availability live production environments.</li>
                   </ul>
                 </div>
               </article>
